@@ -19,9 +19,7 @@ I design distributed platforms that operate at scale — from Kubernetes operato
 
 ## Outside of work
 
-♟️ Teaching my kid to play chess · 🍷 Bold Cabernet Sauvignons · 🧘 Theravada meditation
-
-Curious about the movement of financial data across the globe — love demystifying and extracting value from this data graph of infinite nodes.
+📈 Stock market research & quantitative finance · 🍷 Wine · ☕ Coffee · 🔧 Hardware hacking · ♟️ Chess · 🧘 Theravada meditation
 
 ---
 
