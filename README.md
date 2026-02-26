@@ -23,4 +23,4 @@ I design distributed platforms that operate at scale — from Kubernetes operato
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/hakalyanpur/) · ✉️ harikesh26@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/hakalyanpur/) · ✉️ email = {first_name}{last_name}@gmail.com
