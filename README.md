@@ -1,6 +1,6 @@
-# Hey, I'm Hari 👋
+# Hello World, I'm Harikesh 👋
 
-Senior Staff Engineer at HPE, building AI-driven network security and assurance platforms. Previously led connectivity platform engineering at Juniper Networks and built real-time bot detection systems at Ticketmaster processing 15M+ events/min.
+Senior Staff Engineer at **HPE**, building AI-driven network security and assurance platforms. Previously led connectivity platform engineering at **Juniper Networks** and built real-time bot/fraud detection systems at **Ticketmaster**.
 
 ## What I build
 
